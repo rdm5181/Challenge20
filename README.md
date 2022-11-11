@@ -44,10 +44,10 @@ First Version and only version as everything ran smoothly.
 
 ![5EthAsWeiTransfer](5EthAsWeiTransfer.png "Successfully Transfered 5 Eth")
 
-![10EthAsWeiTransfer](10EthAsWeiTransfer.png "Successfully Transfered 10 Eth")
+![10EthTransfer](10EthTransfer.png "Successfully Transfered 10 Eth")
 
 ![LastToWithdraw](LastToWithdraw.png "Calls LastToWithdraw Function")
 
 ![SetAccount](SetAccount.png "Successfully Set Accounts")
 
-![LastWidthdrawalAmount](LastWidthdrawalAmount.png "Calls LastWithdrawalAmount Function")
+![LastWidthdrawlAmount](LastWidthdrawlAmount.png "Calls LastWithdrawalAmount Function")
